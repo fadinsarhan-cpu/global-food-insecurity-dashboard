@@ -1,0 +1,13 @@
+
+﻿Source Name,Dataset Name,Downloaded Filename,Original URL,File Format
+FAOSTAT,Food Security and Nutrition – Suite of Food Security Indicators,Food_Security_Data_E_All_Data_(Normalized).zip,https://bulks-faostat.fao.org/production/Food_Security_Data_E_All_Data_(Normalized).zip,ZIP
+FAOSTAT,Consumer Price Indices (Food CPI & General CPI),ConsumerPriceIndices_E_All_Data_(Normalized).zip,https://bulks-faostat.fao.org/production/ConsumerPriceIndices_E_All_Data_(Normalized).zip,ZIP
+World Bank Open Data,World Development Indicators (WDI) – all indicators,WDI_CSV.zip,https://databank.worldbank.org/data/download/WDI_CSV.zip,ZIP
+WFP / HungerMap / VAM,Integrated Food Security Phase Classification (IPC),ipc.json,https://api.hungermapdata.org/v2/ipc.json,JSON
+WFP / HungerMap / VAM,ACLED conflict events (HungerMap overlay),acled.geojson,https://api.hungermapdata.org/v2/acled.geojson,GeoJSON
+UNICEF Data,Joint Child Malnutrition Estimates 2025 – country-level model-based data,jme_database_country_model_2025.xlsx,https://data.unicef.org/wp-content/uploads/2019/04/jme_database_country_model_2025.xlsx,XLSX
+UNICEF Data,Joint Child Malnutrition Estimates 2025 – aggregate model-based data,jme_database_aggregate_model_2025.xlsx,https://data.unicef.org/wp-content/uploads/2019/04/jme_database_aggregate_model_2025.xlsx,XLSX
+WHO Global Health Observatory,Stunting prevalence among children under 5 years (model-based estimates),NUTSTUNTINGPREV.json,https://ghoapi.azureedge.net/api/NUTSTUNTINGPREV,JSON
+FAO Food Price data,FAO Food Price Index (nominal & real indices) – monthly data,ffpi-data-2026-04.xlsx,https://www.fao.org/worldfoodsituation/foodpricesindex/en/,XLSX
+FAO Food Price data,FAO Food Price Index (CSV),food_price_indices_data_csv.csv,https://www.fao.org/worldfoodsituation/foodpricesindex/en/,CSV
+Climate data (World Bank Climate Portal),CMIP6 temperature & precipitation climatology (tas, tasmin, tasmax) for India (1995–2014 median ensemble),IND.json,https://cckpapi.worldbank.org/cckp/v1/cmip6-x0.25_climatology_tas,tasmin,tasmax_climatology_annual_1995-2014_median_historical_ensemble_all_mean/IND?_format=json,JSON
